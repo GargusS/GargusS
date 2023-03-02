@@ -24,7 +24,7 @@ Web Dev Online student @[Noroff](https://www.noroff.no/index.php)
 
 ### ✍️ Random  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=GargusS&icon=2&color=3)](https://visitcount.itsvg.in)
 
