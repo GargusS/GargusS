@@ -1,12 +1,14 @@
-![image](https://user-images.githubusercontent.com/39858424/222482872-5918afcc-ad0f-46f6-8a75-5f4608b0ba82.png)
-<br>
-Web Dev Online student @[Noroff](https://www.noroff.no/index.php)
+<img align="left" alt="RABBIT" position="absolute" width="60px" src="https://user-images.githubusercontent.com/39858424/222488281-e6053bd4-3022-4355-a6a1-18985e3cdd05.png" style="padding-right:10px;" />
+
+<img align="center" position="absolute" width="300" src="https://user-images.githubusercontent.com/39858424/222486153-77ae8aac-9c44-434e-af49-a54d125b8e69.png" style="padding-right:10px;"/>
+
+Web Dev Online student @ Noroff
 <br> 
 🌱 I’m currently learning everything interesting in web dev 
 <br>
-💀 Fun fact : Guitarist in Norwegian black metal band [Mardraum on Spotify](https://open.spotify.com/artist/4LCsjtULxeIrMKYzFk1yrS?si=wE8KDIDMRj2MJIlKLZWdCQ)
+💀 Fun fact : Guitarist in Norwegian black metal band [Mardraum](https://open.spotify.com/artist/4LCsjtULxeIrMKYzFk1yrS?si=Y6TigfvCSbq--yFgd4nwvQ)
 <br>
-💬 Say "hi" by sending me an email <geison52338@stud.noroff.no>
+💬 Say "hi" by sending me an email @ <geison52338@stud.noroff.no> and ask about the rabbit...
 
 ## <img align="left" alt="DESKTOP" width="26px" src="https://user-images.githubusercontent.com/39858424/222478118-d46fd08b-eacb-4a5a-ac4d-ab6a0b5f5631.png" style="padding-right:10px;" /> Tech Stack:
 
