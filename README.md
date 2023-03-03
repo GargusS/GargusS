@@ -1,8 +1,12 @@
 <img align="left" alt="RABBIT" position="absolute" width="60px" src="https://user-images.githubusercontent.com/39858424/222488281-e6053bd4-3022-4355-a6a1-18985e3cdd05.png" style="padding-right:10px;" />
 
-<img align="center" position="absolute" width="300" src="https://user-images.githubusercontent.com/39858424/222486153-77ae8aac-9c44-434e-af49-a54d125b8e69.png" style="padding-right:10px;"/>
+<p>🆆🅷🅾 🅸🆂 🅶🅰🆁🅶🆄🆂🆂 ?</p>
+<br>
+My name is Geir Sønnesyn and I am an online web development student at Noroff. I am passionate about technology and have always been fascinated by the power of coding. I started my Front-end Developer studies in January 2023.
 
-Web Dev Online student @ Noroff
+I have a strong background in IT and am particularly interested in web development. I am focused on creating user-friendly websites that are both visually appealing and functional. I am failry familiar with HTML, CSS, JavaScript, and eager to learn more and broaden my skillset.
+
+I am a hard-working and motivated individual who is always looking for ways to expand my knowledge and become better in the field.
 <br> 
 🌱 I’m currently learning everything interesting in web dev 
 <br>
