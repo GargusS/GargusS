@@ -25,7 +25,7 @@ I am a hard-working and motivated individual who is always looking for ways to e
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="paddingright:10px;" />
 <img align="left" alt="PowerShell" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/powershell-3521649-2945093.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/39858424/223135629-0ad395e4-6cd2-44d9-bd4a-9a878b48425e.png" style="padding-right:10px;" />
 
 <br>
 <br>
