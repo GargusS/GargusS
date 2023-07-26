@@ -10,7 +10,7 @@ I am a hard-working and motivated individual who is always looking for ways to e
 <br> 
 <br> 
 <br> 
-🌱 I’m currently learning everything interesting in web dev 
+🌱 I’m currently learning JazaScript and APIs
 <br>
 💀 Fun fact : Guitarist in Norwegian black metal band [Mardraum](https://open.spotify.com/artist/4LCsjtULxeIrMKYzFk1yrS?si=Y6TigfvCSbq--yFgd4nwvQ)
 <br>
