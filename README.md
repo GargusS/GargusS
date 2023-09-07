@@ -31,7 +31,7 @@ I am a hard-working and motivated individual who is always looking for ways to e
 <br>
 <br>
 
-## <img align="left" alt="STATS" width="26px" src="https://user-images.githubusercontent.com/39858424/222478955-925b31bc-6388-4a7a-bf29-2a5a7280ea6a.png" style="padding-right:10px;" style="background-color:#000;" /> GitHub Stats:
+## <img align="left" alt="STATS" width="26px" src="https://user-images.githubusercontent.com/39858424/222478955-925b31bc-6388-4a7a-bf29-2a5a7280ea6a.png" style="padding-right:10px;" style="color:#000;" /> GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GargusS)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br>
