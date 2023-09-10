@@ -13,7 +13,7 @@ I am a hard-working and motivated individual who is always looking for ways to e
 🌱 I’m currently learning JazaScript and APIs plus some HTML Canvas and game dev, check out [My playground](https://garguss.netlify.app/)
 
 <br>
-💀 Fun fact : Guitarist in Norwegian black metal band [Mardraum](https://open.spotify.com/artist/4LCsjtULxeIrMKYzFk1yrS?si=wVdMZ6E2QoaOZfww7SKM4g) 
+💀 Fun fact : Guitarist in Norwegian metal bands Mardraum and Valgard
 <br>
 💬 Say "hi" by sending me an email @ <geison52338@stud.noroff.no> and ask about the rabbit...
 
