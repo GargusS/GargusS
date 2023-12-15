@@ -10,7 +10,7 @@ I am a hard-working and motivated individual who is always looking for ways to e
 <br> 
 <br> 
 <br> 
-🌱 I’m currently learning JazaScript and APIs plus some HTML Canvas and game dev, check out [My playground](https://garguss.netlify.app/)
+🌱 I’m currently learning JazaScript and C# plus some HTML Canvas and game dev, check out [My playground](https://garguss.netlify.app/)
 
 <br>
 💀 Fun fact : Guitarist in Norwegian metal bands Mardraum and Valgard
