@@ -2,7 +2,7 @@
 
 <p>🆆🅷🅾 🅸🆂 🅶🅰🆁🅶🆄🆂🆂 ?</p>
 <br>
-My name is Geir Sønnesyn and I am an online web development student at Noroff. I am passionate about technology and have always been fascinated by the power of coding. I started my Front-end Developer studies in January 2023.
+My name is Geir Sønnesyn and I am passionate about technology and have always been fascinated by the power of coding. I started my Front-end Developer studies in January 2023.
 
 I have a strong background in IT and am particularly interested in web development. I am focused on creating user-friendly websites that are both visually appealing and functional. I am failry familiar with HTML, CSS, JavaScript, and eager to learn more and broaden my skillset.
 
