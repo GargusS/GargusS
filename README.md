@@ -4,18 +4,18 @@
 
 My name is Geir Sønnesyn. With a solid IT background, I began my front-end development studies in January 2023, driven by a passion for creating visually appealing and functional user experiences using HTML, CSS, and JavaScript.
 
-I am actively expanding my full-stack capabilities, now working with C#, .NET, SQLite databases, and Tailwind CSS. I am a diligent and motivated professional, continuously seeking to enhance my skillset and contribute effectively within the tech field.
+I am actively expanding my full-stack capabilities, I am a diligent and motivated professional, continuously seeking to enhance my skillset and contribute effectively within the tech field.
 
 
 ---
 
 ### Current Focus
 
-🌱 I’m currently learning C#, .NET and some Tailwind.
+🌱 I’m now working with C#, .NET, SQLite databases, and Tailwind CSS.
 
 💀 Fun fact: Guitarist in Norwegian metal bands Mardraum and Domen
 
-💬 Say "hi" by sending me an email @ <geirsonnesyn@gmail.com> and ask about the rabbit...
+💬 Contact me @ <geirsonnesyn@gmail.com> or search for Geir Sønnesyn on LinkedIn
 
 ---
 
