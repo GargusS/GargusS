@@ -2,11 +2,16 @@
 
 # Who is Geir Sønnesyn?
 
-My name is Geir Sønnesyn and I am passionate about technology and have always been fascinated by the power of coding. I started my Front-end Developer studies in January 2023.
+My name is Geir Sønnesyn, and I have a strong passion for technology and have always been fascinated by the potential of code. 
+I commenced my studies in Front-end Development in January 2023.
+I possess a solid IT background and have a particular interest in web development. 
+My focus is on creating user-friendly websites that are both visually appealing and functional. 
+I have a good working knowledge of key front-end technologies such as HTML, CSS, and JavaScript.
+Currently, I am actively working on expanding my expertise to include back-end systems. 
+I have begun implementing C# and .NET in my projects, in addition to utilizing SQLite for database solutions. 
+For design and styling, I am now also employing Tailwind CSS.
+I am a diligent and motivated individual who continuously seeks to expand my knowledge and enhance my skills within the field.
 
-I have a strong background in IT and am particularly interested in web development. I am focused on creating user-friendly websites that are both visually appealing and functional. I am fairly familiar with HTML, CSS, JavaScript, and eager to learn more and broaden my skillset.
-
-I am a hard-working and motivated individual who is always looking for ways to expand my knowledge and become better in the field.
 
 ---
 
