@@ -36,7 +36,6 @@ I am actively expanding my full-stack capabilities, I am a diligent and motivate
 ## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garguss&stats_format=bytes)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garguss&show_icons=true&theme=radical)
 ---
 
 ### Random Quote
