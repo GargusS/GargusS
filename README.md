@@ -13,7 +13,7 @@ I am actively expanding my full-stack capabilities, I am a diligent and motivate
 
 🌱 I’m now working with C#, .NET, SQLite databases, and Tailwind CSS.
 
-💀 Fun fact: Guitarist in Norwegian metal bands Mardraum and Domen
+💀 Fun fact: Guitarist in Norwegian metal bands Mardraum and Sønner Av Domen
 
 💬 Contact me @ <geirsonnesyn@gmail.com> or search for Geir Sønnesyn on LinkedIn
 
